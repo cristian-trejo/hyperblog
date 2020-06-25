@@ -3,3 +3,5 @@ Esta es la Historia
 Tiene 22 años 
 
 Mañana continuaremos con los cursos.
+
+Ahora probare el rm y reset
