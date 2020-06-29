@@ -5,5 +5,8 @@ Este es un proyecto que inicie para aprender a utilizar **Git** y **GitHub**.
  </br><u><b>CT</b></u>
 
 * Creado por el increible Hulk
+* Creado junto a Freddy
+* Incluye ejemplos visibles
+* Disponible para todos 
 
 [Never stop learning!](https://cdn.dribbble.com/users/1059583/screenshots/4580296/ezgif.com-crop__2_.gif "Never stop learning!")
